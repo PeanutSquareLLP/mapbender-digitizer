@@ -1,5 +1,5 @@
 {
-    "name": "mapbender/digitizer",
+    "name": "peanutsquarellp/digitizer",
     "description": "Mapbender digitizer element",
     "keywords": ["mapbender", "digitizer","digitizing"],
     "type": "library",
@@ -26,11 +26,5 @@
     },
     "autoload": {
         "psr-4": {"Mapbender\\DigitizerBundle\\": "."}
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.1.x-dev",
-            "dev-release/1.0": "1.0.x-dev"
-        }
     }
 }
